@@ -1,0 +1,5 @@
+.gitignore
+.Rproj.user
+.git
+.Rbuildignore
+.Rhistory
